@@ -1,69 +1,110 @@
-# React + TypeScript + Vite
+<h1 align="center">
+  <img src="https://media.tenor.com/_4YgA77ExHEAAAAd/hacker-hackerman.gif" width="100" />
+  <br/>
+  JWT GEN 🔑
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <i>Porque gerar <b>JWTs</b> nunca foi tão estiloso e divertido!</i>
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Sobre o Projeto
 
-## Expanding the ESLint configuration
+🔥 Um gerador de tokens **JWT-like** feito em **React + Vite + TS** para brincar com tokens, copiar, colar e se sentir o verdadeiro **Hackerman**.  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- 🚀 Geração de tokens "seguríssimos" (256 bits 🔒)  
+- ⏱️ Tokens válidos por 24h  
+- 🎨 UI bonitona com **TailwindCSS**  
+- ✂️ Copiar token com um clique  
+- 🎭 Animações suaves, vibes aesthetic  
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+---
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+## ⚡ Demonstração
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+👉 Deploy no GitHub Pages: [**Acesse aqui**](https://krittz.github.io/jwt-gen/)  
+
+<div align="center">
+  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" width="400"/>
+  <p><i>Gerando tokens como se fosse mágica 🪄</i></p>
+</div>
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- ⚡ [Vite](https://vitejs.dev/) — build ultra rápido  
+- ⚛️ [React 19](https://react.dev/) — a queridinha dos devs  
+- 🎨 [TailwindCSS 4](https://tailwindcss.com/) — estilo sem dor de cabeça  
+- 🎭 [Lucide Icons](https://lucide.dev/) — ícones lindões  
+- 🔐 [gh-pages](https://www.npmjs.com/package/gh-pages) — deploy rápido  
+
+---
+
+## 🚀 Como Rodar Localmente
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/krittz/jwt-gen.git
+cd jwt-gen
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Instale as dependências:
+```bash
+npm install
 ```
+
+Rode o projeto em modo dev:
+```bash
+npm run dev
+```
+
+Abra no navegador:
+```bash
+http://localhost:5173/
+```
+
+---
+
+## 📦 Deploy no GitHub Pages
+
+Builda e publica:
+```bash
+npm run deploy
+```
+Deploy automático para a branch gh-pages 🎉
+
+---
+## 🎉 Funcionalidades
+
+✅ Gera tokens JWT-like com header, payload e signature fake mas 🔒 secure-ish
+✅ Copiar token pro clipboard com botão estiloso
+✅ UI responsiva e moderna
+✅ Animações que deixam até o Neo com inveja
+
+---
+
+## 🤓 Preview do App
+<div align="center"> <img src="https://media.tenor.com/hchE0uSh-kkAAAAC/matrix.gif" width="500"/> <p><i>Você após gerar 1 milhão de tokens</i></p> </div>
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido com ❤️ por Krittz
+
+<div align="center"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding.gif" width="300"/> </div>
+
+---
+
+## ⭐ Dê uma força
+
+Se curtiu, dá aquele ⭐ star no repositório pra ajudar 😍
+
+<div align="center"> <img src="https://media.tenor.com/3LzxkFqX9QUAAAAC/cat-computer.gif" width="250"/> <p><i>Esse gatinho ficará feliz com sua estrela</i> ⭐</p> </div> ```
+
+---
+
