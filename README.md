@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/_4YgA77ExHEAAAAd/hacker-hackerman.gif" width="100" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIzNXdjcW9rcHBrY29qMXFveHBkOG92bGx5cXgyMXp6NHhpYnQyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgzrTt798d2w/giphy.gif" width="100" />
   <br/>
   JWT GEN 🔑
 </h1>
@@ -27,7 +27,7 @@
 👉 Deploy no GitHub Pages: [**Acesse aqui**](https://krittz.github.io/jwt-gen/)  
 
 <div align="center">
-  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAM/404.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/eb/d0/d2/ebd0d29d6442f6eebfc09019d58b805d.gif" width="400"/>
   <p><i>Gerando tokens como se fosse mágica 🪄</i></p>
 </div>
 
@@ -88,7 +88,7 @@ Deploy automático para a branch gh-pages 🎉
 ---
 
 ## 🤓 Preview do App
-<div align="center"> <img src="https://media.tenor.com/hchE0uSh-kkAAAAC/matrix.gif" width="500"/> <p><i>Você após gerar 1 milhão de tokens</i></p> </div>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE0eDdvbHpmejZneGMyOTVwdG9naWxwNDZrZTh1d2Y0czBzNWt6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ieBWQkIVEELhbizGAp/giphy.gif" width="500"/> <p><i>Você após gerar 1 milhão de tokens</i></p> </div>
 
 ---
 
@@ -96,7 +96,7 @@ Deploy automático para a branch gh-pages 🎉
 
 Desenvolvido com ❤️ por Krittz
 
-<div align="center"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding.gif" width="300"/> </div>
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTd0ODI5amNxMnIxeWI0cmlrNDI3OXNoMHhtaGNzd2RjYmQzZHRlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif" width="300"/> </div>
 
 ---
 
@@ -104,7 +104,7 @@ Desenvolvido com ❤️ por Krittz
 
 Se curtiu, dá aquele ⭐ star no repositório pra ajudar 😍
 
-<div align="center"> <img src="https://media.tenor.com/3LzxkFqX9QUAAAAC/cat-computer.gif" width="250"/> <p><i>Esse gatinho ficará feliz com sua estrela</i> ⭐</p> </div> ```
+<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG96dXFqYm85aHpweXE4ejQ1MjRsM3d2dzJoMjViYXByNmg0bjMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="250"/> <p><i>Esse gatinho ficará feliz com sua estrela</i> ⭐</p> </div> 
 
 ---
 
